@@ -1,11 +1,11 @@
 
 ---------- Begin Simulation Statistics ----------
 final_tick                               2261748478000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
-host_inst_rate                               74487753                       # Simulator instruction rate (inst/s)
+host_inst_rate                               72544782                       # Simulator instruction rate (inst/s)
 host_mem_usage                                 791376                       # Number of bytes of host memory used
-host_op_rate                                 74478747                       # Simulator op (including micro ops) rate (op/s)
-host_seconds                                     1.58                       # Real time elapsed on the host
-host_tick_rate                              937187342                       # Simulator tick rate (ticks/s)
+host_op_rate                                 72540674                       # Simulator op (including micro ops) rate (op/s)
+host_seconds                                     1.62                       # Real time elapsed on the host
+host_tick_rate                              912810966                       # Simulator tick rate (ticks/s)
 sim_freq                                 1000000000000                       # Frequency of simulated ticks
 sim_insts                                   117472459                       # Number of instructions simulated
 sim_ops                                     117472459                       # Number of ops (including micro ops) simulated
@@ -3405,11 +3405,11 @@ system.iobus.respLayer0.utilization               0.0                       # La
 
 ---------- Begin Simulation Statistics ----------
 final_tick                               2473683119500                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
-host_inst_rate                                1067966                       # Simulator instruction rate (inst/s)
+host_inst_rate                                1673827                       # Simulator instruction rate (inst/s)
 host_mem_usage                                 803664                       # Number of bytes of host memory used
-host_op_rate                                  1067965                       # Simulator op (including micro ops) rate (op/s)
-host_seconds                                   218.80                       # Real time elapsed on the host
-host_tick_rate                              961397055                       # Simulator tick rate (ticks/s)
+host_op_rate                                  1673826                       # Simulator op (including micro ops) rate (op/s)
+host_seconds                                   139.60                       # Real time elapsed on the host
+host_tick_rate                             1506801504                       # Simulator tick rate (ticks/s)
 sim_freq                                 1000000000000                       # Frequency of simulated ticks
 sim_insts                                   233670283                       # Number of instructions simulated
 sim_ops                                     233670283                       # Number of ops (including micro ops) simulated
@@ -7109,11 +7109,11 @@ system.iobus.reqLayer22.utilization               0.0                       # La
 
 ---------- Begin Simulation Statistics ----------
 final_tick                               5882260608500                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
-host_inst_rate                                 896603                       # Simulator instruction rate (inst/s)
+host_inst_rate                                 750299                       # Simulator instruction rate (inst/s)
 host_mem_usage                                 811856                       # Number of bytes of host memory used
-host_op_rate                                   896603                       # Simulator op (including micro ops) rate (op/s)
-host_seconds                                  7918.92                       # Real time elapsed on the host
-host_tick_rate                              430434425                       # Simulator tick rate (ticks/s)
+host_op_rate                                   750299                       # Simulator op (including micro ops) rate (op/s)
+host_seconds                                  9463.06                       # Real time elapsed on the host
+host_tick_rate                              360198054                       # Simulator tick rate (ticks/s)
 sim_freq                                 1000000000000                       # Frequency of simulated ticks
 sim_insts                                  7100128669                       # Number of instructions simulated
 sim_ops                                    7100128669                       # Number of ops (including micro ops) simulated
@@ -10885,11 +10885,11 @@ system.iobus.reqLayer22.utilization               0.0                       # La
 
 ---------- Begin Simulation Statistics ----------
 final_tick                               5913216586500                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
-host_inst_rate                              346152964                       # Simulator instruction rate (inst/s)
+host_inst_rate                              192985620                       # Simulator instruction rate (inst/s)
 host_mem_usage                                 811856                       # Number of bytes of host memory used
-host_op_rate                                346151549                       # Simulator op (including micro ops) rate (op/s)
-host_seconds                                    20.57                       # Real time elapsed on the host
-host_tick_rate                             1505084265                       # Simulator tick rate (ticks/s)
+host_op_rate                                192984798                       # Simulator op (including micro ops) rate (op/s)
+host_seconds                                    36.89                       # Real time elapsed on the host
+host_tick_rate                              839107422                       # Simulator tick rate (ticks/s)
 sim_freq                                 1000000000000                       # Frequency of simulated ticks
 sim_insts                                  7119502557                       # Number of instructions simulated
 sim_ops                                    7119502557                       # Number of ops (including micro ops) simulated
